@@ -7,4 +7,5 @@ Everything you need to start using the official GNU Bash logo
 * Art director: Justin Dorfman
 * Commissioned by: MaxCDN
 * Font: Roboto Mono
+* License: Free Art License, http://artlibre.org/licence/lal/en/
 * Copyright 2016 Free Software Foundation
