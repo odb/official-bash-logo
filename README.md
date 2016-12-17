@@ -28,6 +28,107 @@ Everything you need to start using the official GNU Bash logo.
 
 If you still have questions or concerns please email [licensing@fsf.org](http://www.fsf.org/about/contact/email)
 
+## Files
+```
+.
+├── CONTRIBUTING.md
+├── LICENSE
+├── README.md
+└── assets
+    ├── LICENSE
+    ├── Logos
+    │   ├── Font
+    │   │   └── Roboto_Mono
+    │   │       ├── LICENSE.txt
+    │   │       ├── RobotoMono-Bold.ttf
+    │   │       ├── RobotoMono-BoldItalic.ttf
+    │   │       ├── RobotoMono-Italic.ttf
+    │   │       ├── RobotoMono-Light.ttf
+    │   │       ├── RobotoMono-LightItalic.ttf
+    │   │       ├── RobotoMono-Medium.ttf
+    │   │       ├── RobotoMono-MediumItalic.ttf
+    │   │       ├── RobotoMono-Regular.ttf
+    │   │       ├── RobotoMono-Thin.ttf
+    │   │       └── RobotoMono-ThinItalic.ttf
+    │   ├── Icons
+    │   │   ├── PNG
+    │   │   │   ├── 128x128.png
+    │   │   │   ├── 128x128_white.png
+    │   │   │   ├── 16x16.png
+    │   │   │   ├── 16x16_white.png
+    │   │   │   ├── 24x24.png
+    │   │   │   ├── 24x24_white.png
+    │   │   │   ├── 256x256.png
+    │   │   │   ├── 256x256_white.png
+    │   │   │   ├── 32x32.png
+    │   │   │   ├── 32x32_white.png
+    │   │   │   ├── 48x48.png
+    │   │   │   ├── 48x48_white.png
+    │   │   │   ├── 512x512.png
+    │   │   │   ├── 512x512_white.png
+    │   │   │   ├── 64x64.png
+    │   │   │   ├── 64x64_white.png
+    │   │   │   ├── Favicon-16x16.png
+    │   │   │   └── Favicon-16x16_white.png
+    │   │   ├── SVG
+    │   │   │   ├── 128x128.svg
+    │   │   │   ├── 128x128_white.svg
+    │   │   │   ├── 16x16.svg
+    │   │   │   ├── 16x16_white.svg
+    │   │   │   ├── 24x24.svg
+    │   │   │   ├── 24x24_white.svg
+    │   │   │   ├── 256x256.svg
+    │   │   │   ├── 256x256_white.svg
+    │   │   │   ├── 32x32.svg
+    │   │   │   ├── 32x32_white.svg
+    │   │   │   ├── 48x48.svg
+    │   │   │   ├── 48x48_white.svg
+    │   │   │   ├── 512x512.svg
+    │   │   │   ├── 512x512_white.svg
+    │   │   │   ├── 64x64.svg
+    │   │   │   ├── 64x64_white.svg
+    │   │   │   ├── BASH_logo-transparent-bg-bw-02.svg
+    │   │   │   ├── Favicon-16x16.svg
+    │   │   │   └── Favicon-16x16_white.svg
+    │   │   └── Source
+    │   │       ├── AI
+    │   │       │   └── BASH-icons-RGB-to-WEB.ai
+    │   │       ├── EPS
+    │   │       │   ├── BASH-icons-RGB-to-WEB-01.eps
+    │   │       │   └── BASH-icons-RGB-to-WEB-02.eps
+    │   │       └── PDF
+    │   │           └── BASH-icons-RGB-to-WEB.pdf
+    │   └── Identity
+    │       ├── PNG
+    │       │   ├── BASH_logo-transparent-bg-bw.png
+    │       │   └── BASH_logo-transparent-bg-color.png
+    │       ├── SVG
+    │       │   ├── BASH_logo-transparent-bg-bw.svg
+    │       │   └── BASH_logo-transparent-bg-color.svg
+    │       └── Source
+    │           ├── AI
+    │           │   ├── BASH_logo-transparent-bg-bw.ai
+    │           │   └── BASH_logo-transparent-bg-color.ai
+    │           └── Style_guide
+    │               ├── AI
+    │               │   ├── BASH-logo-stickers-for-PRINT-CMYK.ai
+    │               │   └── BASH_logo-vs-elements_for-PRINT-CMYK.ai
+    │               ├── EPS
+    │               │   ├── BASH-logo-stickers-for-PRINT-CMYK.eps
+    │               │   ├── BASH_logo-vs-elements_for-PRINT-CMYK-01.eps
+    │               │   ├── BASH_logo-vs-elements_for-PRINT-CMYK-02.eps
+    │               │   ├── BASH_logo-vs-elements_for-PRINT-CMYK-03.eps
+    │               │   ├── BASH_logo-vs-elements_for-PRINT-CMYK-04.eps
+    │               │   └── BASH_logo-vs-elements_for-PRINT-CMYK-05.eps
+    │               └── PDF
+    │                   ├── BASH-logo-stickers-for-PRINT-CMYK.pdf
+    │                   └── BASH_logo-vs-elements_for-PRINT-CMYK.pdf
+    ├── bash-style-guide.pdf
+    └── copyright-agreement.pdf
+
+20 directories, 74 files
+```
+
 ## Sightings
 * [The GNU Bourne-Again SHell website](https://tiswww.case.edu/php/chet/bash/bashtop.html)
 * [Unixstickers](http://www.unixstickers.com/tag/bash)
