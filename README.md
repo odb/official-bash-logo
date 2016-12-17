@@ -11,14 +11,14 @@ Everything you need to start using the official GNU Bash logo.
 * Copyright 2016 [Free Software Foundation](https://www.fsf.org/)
 
 ## FAQ
-**Yes you can:**
+**Yes you can...**
 * Can I use this on my website?
 * What about in a presentation?
 * Any type of print media? (book, magazine, flyer, sticker)
 * Promoting a commercial project that uses Bash e.g. _Bash on Windows_?
 * Sell merchandise using this artwork? _(please consider giving some proceeds to the FSF)_
 
-**Please do not:**
+**Please do not...**
 * Can I change any colors or fonts? _(see bash-style-guide.pdf for acceptable use)_
  * **Note:** any modification(s) must adhere to section `2.3` "FREEDOM TO MODIFY" of the Free Art License (1.3)
 * Use the icon for my logo?
