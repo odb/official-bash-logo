@@ -1,5 +1,5 @@
 <h3 align="center">
-![Bash Log](https://cdn.rawgit.com/odb/official-bash-logo/master/assets/Logos/Identity/PNG/BASH_logo-transparent-bg-color.png)
+<img src="https://cdn.rawgit.com/odb/official-bash-logo/master/assets/Logos/Identity/PNG/BASH_logo-transparent-bg-color.png">
 </h3>
 # Official GNU Bash Logo
 Everything you need to start using the official GNU Bash logo.
