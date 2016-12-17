@@ -6,7 +6,7 @@ Please note we have a code of conduct, please follow it in all your interactions
 
 ## Pull Requests
 
-Pull Request we are looking for are any of the following: New file formats e.g. `WEBP`, file optimization, file organization, etc.
+Pull Request we are looking for are any of the following: New file formats e.g. `WEBP`, file optimization, file organization, Logo sightings, etc.
 
 ### Process
 
