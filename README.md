@@ -32,5 +32,6 @@ If you still have questions or concerns please email [licensing@fsf.org](http://
 * [Wikipedia](https://en.m.wikipedia.org/wiki/Bash_(Unix_shell)
 * [OpenSource.com](https://opensource.com/article/16/12/bash-logo-community)
 * [Instant Logo Search](http://instantlogosearch.com/?q=bash)
+* [HACKLOG](https://hacklog.mu/how-to-get-a-gnu-bash-sticker/)
 
 Have you seen the logo around? Make a [Pull Request](https://github.com/odb/official-bash-logo/pulls) with the link.
