@@ -19,7 +19,8 @@ Everything you need to start using the official GNU Bash logo.
 * Sell merchandise using this artwork? _(please consider giving some proceeds to the FSF)_
 
 **Please do not:**
-* Can I change any colors or fonts? _(see bash-style-guide.pdf)_
+* Can I change any colors or fonts? _(see bash-style-guide.pdf for acceptable use)_
+ * **Note:** any modification(s) must adhere to section `2.3` "FREEDOM TO MODIFY" of the Free Art License (1.3)
 * Use the icon for my logo?
 
 If you still have questions or concerns please email [licensing@fsf.org](http://www.fsf.org/about/contact/email)
