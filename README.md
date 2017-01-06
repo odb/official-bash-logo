@@ -139,5 +139,6 @@ If you still have questions or concerns please email [licensing@fsf.org](http://
 * [HACKLOG](https://hacklog.mu/how-to-get-a-gnu-bash-sticker/)
 * [Learning bash scripting for beginners](https://www.cyberciti.biz/open-source/learning-bash-scripting-for-beginners/)
 * [OS X Password Generator in BASH](https://medium.com/@jdorfman/osx-password-generator-in-bash-48687892c4f3#.31hsjpeac)
+* [Howto: Changing Linux Login Shell](https://www.cyberciti.biz/faq/howto-change-linux-unix-freebsd-login-shell/)
 
 Have you seen the logo around? Make a [Pull Request](https://github.com/odb/official-bash-logo/pulls) with the link.
