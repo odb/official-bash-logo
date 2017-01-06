@@ -138,5 +138,6 @@ If you still have questions or concerns please email [licensing@fsf.org](http://
 * [Instant Logo Search](http://instantlogosearch.com/?q=bash)
 * [HACKLOG](https://hacklog.mu/how-to-get-a-gnu-bash-sticker/)
 * [Learning bash scripting for beginners](https://www.cyberciti.biz/open-source/learning-bash-scripting-for-beginners/)
+* [OS X Password Generator in BASH](https://medium.com/@jdorfman/osx-password-generator-in-bash-48687892c4f3#.31hsjpeac)
 
 Have you seen the logo around? Make a [Pull Request](https://github.com/odb/official-bash-logo/pulls) with the link.
