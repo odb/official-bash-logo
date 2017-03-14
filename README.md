@@ -142,5 +142,6 @@ If you still have questions or concerns please email [licensing@fsf.org](http://
 * [Howto: Changing Linux Login Shell](https://www.cyberciti.biz/faq/howto-change-linux-unix-freebsd-login-shell/)
 * [How to copy a single file to multiple directories in Linux or Unix](https://www.cyberciti.biz/faq/linux-unix-copy-a-file-to-multiple-directories-using-cp-command/)
 * [Maximum Character Length of Arguments In a Shell Command](https://www.cyberciti.biz/faq/linux-unix-arg_max-maximum-length-of-arguments/)
+* [Shell Scripts Matter](https://dev.to/thiht/shell-scripts-matter)
 
 Have you seen the logo around? Make a [Pull Request](https://github.com/odb/official-bash-logo/pulls) with the link.
