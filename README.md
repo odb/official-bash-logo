@@ -148,5 +148,6 @@ If you still have questions or concerns please email [licensing@fsf.org](http://
 * [Shell scripting (BASH) : How to create temporary random file name](https://www.cyberciti.biz/tips/shell-scripting-bash-how-to-create-temporary-random-file-name.html)
 * [Linux / UNIX: Find Out If File Exists With Conditional Expressions in a Bash Shell](https://www.cyberciti.biz/tips/find-out-if-file-exists-with-conditional-expressions.html)
 * [How to get domain name from URL in bash shell script](https://www.cyberciti.biz/faq/get-extract-domain-name-from-url-in-linux-unix-bash/)
+* [How To Use tar Command Through Network Over SSH Session](https://www.cyberciti.biz/faq/howto-use-tar-command-through-network-over-ssh-session/)
 
 Have you seen the logo around? Make a [Pull Request](https://github.com/odb/official-bash-logo/pulls) with the link.
