@@ -150,5 +150,6 @@ If you still have questions or concerns please email [licensing@fsf.org](http://
 * [How to get domain name from URL in bash shell script](https://www.cyberciti.biz/faq/get-extract-domain-name-from-url-in-linux-unix-bash/)
 * [How To Use tar Command Through Network Over SSH Session](https://www.cyberciti.biz/faq/howto-use-tar-command-through-network-over-ssh-session/)
 * [How To Find a Directory On Linux Based System](https://www.cyberciti.biz/faq/howto-find-a-directory-linux-command/)
+* [Reddit: GNU Bash has a official logo and it looks so beautiful](https://www.reddit.com/r/linux/comments/7dupyf/just_found_out_that_gnu_bash_has_a_official_logo/)
 
 Have you seen the logo around? Make a [Pull Request](https://github.com/odb/official-bash-logo/pulls) with the link.
