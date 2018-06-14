@@ -153,5 +153,6 @@ If you still have questions or concerns please email [licensing@fsf.org](http://
 * [Reddit: GNU Bash has a official logo and it looks so beautiful](https://www.reddit.com/r/linux/comments/7dupyf/just_found_out_that_gnu_bash_has_a_official_logo/)
 * [Bash Logo Media Assets](https://bashlogo.com/)
 * [Developing Console Applications with Bash](https://www.linuxjournal.com/content/developing-console-applications-bash)
+* [GitHub Topics > Bash](https://github.com/topics/bash)
 
 Have you seen the logo around? Make a [Pull Request](https://github.com/odb/official-bash-logo/pulls) with the link.
