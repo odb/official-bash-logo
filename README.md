@@ -154,5 +154,6 @@ If you still have questions or concerns please email [licensing@fsf.org](http://
 * [Bash Logo Media Assets](https://bashlogo.com/)
 * [Developing Console Applications with Bash](https://www.linuxjournal.com/content/developing-console-applications-bash)
 * [GitHub Topics > Bash](https://github.com/topics/bash)
+* [Pure Bash Bible](https://github.com/dylanaraps/pure-bash-bible)
 
 Have you seen the logo around? Make a [Pull Request](https://github.com/odb/official-bash-logo/pulls) with the link.
