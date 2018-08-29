@@ -158,5 +158,6 @@ If you still have questions or concerns please email [licensing@fsf.org](http://
 * [Dribbble](https://dribbble.com/shots/4040291-Bash-Logo)
 * [What is your favorite Linux terminal trick?](https://opensource.com/article/18/8/terminal-trick)
 * [Changelog Bash topic](https://changelog.com/topic/bash)
+* [Bash at DuckDuckGo](https://duckduckgo.com/?q=bash&t=hi&ia=web&natb=v132-1_i)
 
 Have you seen the logo around? Make a [Pull Request](https://github.com/odb/official-bash-logo/pulls) with the link.
