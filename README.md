@@ -137,7 +137,6 @@ If you still have questions or concerns please email [licensing@fsf.org](http://
 * [Wikipedia](https://en.m.wikipedia.org/wiki/Bash_(Unix_shell))
 * [OpenSource.com](https://opensource.com/article/16/12/bash-logo-community)
 * [Instant Logo Search](http://instantlogosearch.com/?q=bash)
-* [HACKLOG](https://hacklog.mu/how-to-get-a-gnu-bash-sticker/)
 * [Learning bash scripting for beginners](https://www.cyberciti.biz/open-source/learning-bash-scripting-for-beginners/)
 * [OS X Password Generator in BASH](https://medium.com/@jdorfman/osx-password-generator-in-bash-48687892c4f3#.31hsjpeac)
 * [Howto: Changing Linux Login Shell](https://www.cyberciti.biz/faq/howto-change-linux-unix-freebsd-login-shell/)
