@@ -159,5 +159,9 @@ If you still have questions or concerns please email [licensing@fsf.org](http://
 * [What is your favorite Linux terminal trick?](https://opensource.com/article/18/8/terminal-trick)
 * [Changelog Bash topic](https://changelog.com/topic/bash)
 * [Bash at DuckDuckGo](https://duckduckgo.com/?q=bash&t=hi&ia=web&natb=v132-1_i)
+* [How to enable auto complete for git commands](http://satishgandham.com/2017/11/enable-auto-complete-git-commands-branches-mac-osx-terminal-command-line/)
+* [How To Write A BASH 'for' Loop](https://www.lifewire.com/bash-for-loop-examples-2200575)
+* [How to Pass Arguments to a Bash-Script](https://www.lifewire.com/pass-arguments-to-bash-script-2200571)
+* [How to Write Bash WHILE-Loops](https://www.lifewire.com/write-bash-while-loops-2200576)
 
 Have you seen the logo around? Make a [Pull Request](https://github.com/odb/official-bash-logo/pulls) with the link.
