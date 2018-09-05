@@ -162,5 +162,6 @@ If you still have questions or concerns please email [licensing@fsf.org](http://
 * [How To Write A BASH 'for' Loop](https://www.lifewire.com/bash-for-loop-examples-2200575)
 * [How to Pass Arguments to a Bash-Script](https://www.lifewire.com/pass-arguments-to-bash-script-2200571)
 * [How to Write Bash WHILE-Loops](https://www.lifewire.com/write-bash-while-loops-2200576)
+* [Unixsticker Promo Tweet](https://twitter.com/unixstickers/status/1036967410098688002)
 
 Have you seen the logo around? Make a [Pull Request](https://github.com/odb/official-bash-logo/pulls) with the link.
