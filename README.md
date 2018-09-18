@@ -163,5 +163,6 @@ If you still have questions or concerns please email [licensing@fsf.org](http://
 * [How to Pass Arguments to a Bash-Script](https://www.lifewire.com/pass-arguments-to-bash-script-2200571)
 * [How to Write Bash WHILE-Loops](https://www.lifewire.com/write-bash-while-loops-2200576)
 * [Unixsticker Promo Tweet](https://twitter.com/unixstickers/status/1036967410098688002)
+* [Writing More Compact Bash Code](https://www.linuxjournal.com/content/writing-more-compact-bash-code)
 
 Have you seen the logo around? Make a [Pull Request](https://github.com/odb/official-bash-logo/pulls) with the link.
