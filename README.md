@@ -164,5 +164,6 @@ If you still have questions or concerns please email [licensing@fsf.org](http://
 * [How to Write Bash WHILE-Loops](https://www.lifewire.com/write-bash-while-loops-2200576)
 * [Unixsticker Promo Tweet](https://twitter.com/unixstickers/status/1036967410098688002)
 * [Writing More Compact Bash Code](https://www.linuxjournal.com/content/writing-more-compact-bash-code)
+* [How to Create and Use Bash Scripts](https://www.taniarascia.com/how-to-create-and-use-bash-scripts/)
 
 Have you seen the logo around? Make a [Pull Request](https://github.com/odb/official-bash-logo/pulls) with the link.
