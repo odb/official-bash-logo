@@ -165,5 +165,6 @@ If you still have questions or concerns please email [licensing@fsf.org](http://
 * [Unixsticker Promo Tweet](https://twitter.com/unixstickers/status/1036967410098688002)
 * [Writing More Compact Bash Code](https://www.linuxjournal.com/content/writing-more-compact-bash-code)
 * [How to Create and Use Bash Scripts](https://www.taniarascia.com/how-to-create-and-use-bash-scripts/)
+* [How To Use Bash Parameter Substitution Like A Pro](https://www.cyberciti.biz/tips/bash-shell-parameter-substitution-2.html)
 
 Have you seen the logo around? Make a [Pull Request](https://github.com/odb/official-bash-logo/pulls) with the link.
