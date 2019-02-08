@@ -167,5 +167,6 @@ If you still have questions or concerns please email [licensing@fsf.org](http://
 * [Newbie at bash scripting? Here's some advice](https://dev.to/pencillr/newbie-at-bash-scripting-heres-some-advice-j1a)
 * [CapitalOne's Bash Shell Mock](https://github.com/capitalone/bash_shell_mock)
 * [Shop FSF > BASH logo sticker pack](https://shop.fsf.org/stickers/bash-logo-sticker-pack)
+* [Bash IDE](https://marketplace.visualstudio.com/items?itemName=mads-hartmann.bash-ide-vscode)
 
 Have you seen the logo around? Make a [Pull Request](https://github.com/odb/official-bash-logo/pulls) with the link.
