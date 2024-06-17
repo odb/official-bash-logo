@@ -27,6 +27,9 @@ Everything you need to start using the official GNU Bash logo.
  * **Note:** any modification(s) must adhere to section `2.3` "FREEDOM TO MODIFY" of the Free Art License (1.3)
 * Use the icon for my logo?
 
+**Trivia**
+* The logo represents a stylized video terminal like the [VT100](https://en.wikipedia.org/wiki/VT100) displaying a [command prompt](https://en.wikipedia.org/wiki/Command-line_interface#Command_prompt).
+
 If you still have questions or concerns please email [licensing@fsf.org](http://www.fsf.org/about/contact/email)
 
 ## Files
